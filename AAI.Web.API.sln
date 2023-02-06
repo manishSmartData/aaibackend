@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AAI.Web.API", "AAI.Web.API\AAI.Web.API.csproj", "{361CD36A-5C3D-499B-914D-98A44B15C3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.Common", "AAI.Common\AAI.Common.csproj", "{A7C050A1-1124-4982-BEAE-8D1DCF5CE683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.DataContract", "AAI.DataContract\AAI.DataContract.csproj", "{A6091358-42CD-47CB-879B-FA8D47286453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.Repository", "AAI.Repository\AAI.Repository.csproj", "{E8F8DBE6-C379-452D-A7B2-8B73AAB27656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.RepositoryContract", "AAI.RepositoryContract\AAI.RepositoryContract.csproj", "{EB7EDAA6-27C6-454A-AECD-0E4AC801044C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.Service", "AAI.Service\AAI.Service.csproj", "{9BD8DE4E-AD4D-4B05-80E2-E784D45E595B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAI.ServiceContract", "AAI.ServiceContract\AAI.ServiceContract.csproj", "{351C5925-EBE2-4C0E-A5C2-CCD46182ACE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361CD36A-5C3D-499B-914D-98A44B15C3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361CD36A-5C3D-499B-914D-98A44B15C3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361CD36A-5C3D-499B-914D-98A44B15C3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361CD36A-5C3D-499B-914D-98A44B15C3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C050A1-1124-4982-BEAE-8D1DCF5CE683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C050A1-1124-4982-BEAE-8D1DCF5CE683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C050A1-1124-4982-BEAE-8D1DCF5CE683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C050A1-1124-4982-BEAE-8D1DCF5CE683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6091358-42CD-47CB-879B-FA8D47286453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6091358-42CD-47CB-879B-FA8D47286453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6091358-42CD-47CB-879B-FA8D47286453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6091358-42CD-47CB-879B-FA8D47286453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F8DBE6-C379-452D-A7B2-8B73AAB27656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F8DBE6-C379-452D-A7B2-8B73AAB27656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F8DBE6-C379-452D-A7B2-8B73AAB27656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F8DBE6-C379-452D-A7B2-8B73AAB27656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7EDAA6-27C6-454A-AECD-0E4AC801044C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7EDAA6-27C6-454A-AECD-0E4AC801044C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7EDAA6-27C6-454A-AECD-0E4AC801044C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7EDAA6-27C6-454A-AECD-0E4AC801044C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD8DE4E-AD4D-4B05-80E2-E784D45E595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD8DE4E-AD4D-4B05-80E2-E784D45E595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD8DE4E-AD4D-4B05-80E2-E784D45E595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD8DE4E-AD4D-4B05-80E2-E784D45E595B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351C5925-EBE2-4C0E-A5C2-CCD46182ACE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351C5925-EBE2-4C0E-A5C2-CCD46182ACE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351C5925-EBE2-4C0E-A5C2-CCD46182ACE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351C5925-EBE2-4C0E-A5C2-CCD46182ACE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0575CF-6BBE-411F-AA06-A1674FD703EE}
+	EndGlobalSection
+EndGlobal
