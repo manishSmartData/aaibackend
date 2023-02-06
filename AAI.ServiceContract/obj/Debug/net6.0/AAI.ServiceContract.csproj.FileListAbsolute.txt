@@ -1,0 +1,60 @@
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.deps.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\refint\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.ServiceContract\obj\Debug\net6.0\ref\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.deps.json
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\refint\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.ServiceContract\obj\Debug\net6.0\ref\AAI.ServiceContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.AssemblyReference.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfoInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\refint\AAI.ServiceContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.deps.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CopyComplete
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.ServiceContract\obj\Debug\net6.0\ref\AAI.ServiceContract.dll
+C:\AAI\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.deps.json
+C:\AAI\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\AAI\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\AAI\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\AAI\AAI\AAI.ServiceContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.AssemblyReference.cache
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfoInputs.cache
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.AssemblyInfo.cs
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CoreCompileInputs.cache
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.csproj.CopyComplete
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.dll
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\refint\AAI.ServiceContract.dll
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\AAI.ServiceContract.pdb
+C:\AAI\AAI\AAI.ServiceContract\obj\Debug\net6.0\ref\AAI.ServiceContract.dll

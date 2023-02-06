@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Login\**" />
+    <EmbeddedResource Remove="Login\**" />
+    <None Remove="Login\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AAI.DataContract\AAI.DataContract.csproj" />
+  </ItemGroup>
+
+</Project>

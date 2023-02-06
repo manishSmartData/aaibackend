@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DKKbbluDnig0KmUWUwcBRF0cdw4S+z0VwC6C2VVf4bQ=",
+  "Source": "AAI.Web.API",
+  "BasePath": "_content/AAI.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

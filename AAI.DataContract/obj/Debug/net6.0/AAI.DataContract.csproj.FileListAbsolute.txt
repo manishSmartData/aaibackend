@@ -1,0 +1,56 @@
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.deps.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.runtimeconfig.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\refint\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.genruntimeconfig.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.DataContract\obj\Debug\net6.0\ref\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.deps.json
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.runtimeconfig.json
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\refint\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.genruntimeconfig.cache
+C:\Users\Dev5\Desktop\AAI\AAI.DataContract\obj\Debug\net6.0\ref\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.deps.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.runtimeconfig.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.AssemblyReference.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfoInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\refint\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.genruntimeconfig.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.DataContract\obj\Debug\net6.0\ref\AAI.DataContract.dll
+C:\AAI\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.deps.json
+C:\AAI\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.runtimeconfig.json
+C:\AAI\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\AAI\AAI\AAI.DataContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.AssemblyReference.cache
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfoInputs.cache
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.AssemblyInfo.cs
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.csproj.CoreCompileInputs.cache
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.dll
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\refint\AAI.DataContract.dll
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.pdb
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\AAI.DataContract.genruntimeconfig.cache
+C:\AAI\AAI\AAI.DataContract\obj\Debug\net6.0\ref\AAI.DataContract.dll

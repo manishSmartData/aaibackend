@@ -1,0 +1,60 @@
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.deps.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\refint\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.RepositoryContract\obj\Debug\net6.0\ref\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.deps.json
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\refint\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.RepositoryContract\obj\Debug\net6.0\ref\AAI.RepositoryContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.deps.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.AssemblyReference.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CopyComplete
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\refint\AAI.RepositoryContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.RepositoryContract\obj\Debug\net6.0\ref\AAI.RepositoryContract.dll
+C:\AAI\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.deps.json
+C:\AAI\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\AAI\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\AAI\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.dll
+C:\AAI\AAI\AAI.RepositoryContract\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.AssemblyReference.cache
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfoInputs.cache
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.AssemblyInfo.cs
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CoreCompileInputs.cache
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.csproj.CopyComplete
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.dll
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\refint\AAI.RepositoryContract.dll
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\AAI\AAI\AAI.RepositoryContract\obj\Debug\net6.0\ref\AAI.RepositoryContract.dll

@@ -1,0 +1,386 @@
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.exe
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.deps.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.runtimeconfig.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Service.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.Service.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.AAI.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\scopedcss\bundle\AAI.Web.API.styles.css
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\refint\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.genruntimeconfig.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\ref\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.exe
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.deps.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.runtimeconfig.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.AAI.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AAI.Web.API.props
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\scopedcss\bundle\AAI.Web.API.styles.css
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CopyComplete
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\refint\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.genruntimeconfig.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\obj\Debug\net6.0\ref\AAI.Web.API.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Web.API\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.AssemblyReference.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfoInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\refint\AAI.Web.API.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\appsettings.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.exe
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.deps.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.runtimeconfig.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\RestSharp.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.AAI.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AAI.Web.API.props
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AAI.Web.API.props
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AAI.Web.API.props
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\scopedcss\bundle\AAI.Web.API.styles.css
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CopyComplete
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.genruntimeconfig.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Web.API\obj\Debug\net6.0\ref\AAI.Web.API.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\appsettings.json
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.exe
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.deps.json
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.runtimeconfig.json
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Web.API.pdb
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Core.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Humanizer.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\RestSharp.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.dll
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.DataContract.pdb
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.ServiceContract.pdb
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.Service.pdb
+C:\AAI\AAI\AAI.Web.API\bin\Debug\net6.0\AAI.RepositoryContract.pdb
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.AssemblyReference.cache
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfoInputs.cache
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.AssemblyInfo.cs
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CoreCompileInputs.cache
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.AAI.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AAI.Web.API.props
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AAI.Web.API.props
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AAI.Web.API.props
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\scopedcss\bundle\AAI.Web.API.styles.css
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.csproj.CopyComplete
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.dll
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\refint\AAI.Web.API.dll
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.pdb
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\AAI.Web.API.genruntimeconfig.cache
+C:\AAI\AAI\AAI.Web.API\obj\Debug\net6.0\ref\AAI.Web.API.dll

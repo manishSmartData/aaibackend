@@ -1,0 +1,48 @@
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\bin\Debug\net6.0\AAI.Repository.deps.json
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\bin\Debug\net6.0\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\bin\Debug\net6.0\AAI.Repository.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\refint\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\AAI.Repository.pdb
+C:\Users\Dev5\Desktop\AAI.Web.API\AAI.Repository\obj\Debug\net6.0\ref\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.deps.json
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.AssemblyReference.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfoInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfo.cs
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\refint\AAI.Repository.dll
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.pdb
+C:\Users\Dev5\Desktop\AAI\AAI.Repository\obj\Debug\net6.0\ref\AAI.Repository.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.deps.json
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.AssemblyReference.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfoInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfo.cs
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\refint\AAI.Repository.dll
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.pdb
+C:\Users\VishalKumar\Downloads\AAI (2)\AAI\AAI.Repository\obj\Debug\net6.0\ref\AAI.Repository.dll
+C:\AAI\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.deps.json
+C:\AAI\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.dll
+C:\AAI\AAI\AAI.Repository\bin\Debug\net6.0\AAI.Repository.pdb
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.AssemblyReference.cache
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfoInputs.cache
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.AssemblyInfo.cs
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.csproj.CoreCompileInputs.cache
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.dll
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\refint\AAI.Repository.dll
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\AAI.Repository.pdb
+C:\AAI\AAI\AAI.Repository\obj\Debug\net6.0\ref\AAI.Repository.dll
