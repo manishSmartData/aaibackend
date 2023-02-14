@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AAI.DataContract/obj/Debug/net6.0/AAI.DataContract.csproj.AssemblyReference.cache
+/AAI.DataContract/obj/Debug/net6.0/AAI.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.Repository/obj/Debug/net6.0/AAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.RepositoryContract/obj/Debug/net6.0/AAI.RepositoryContract.csproj.AssemblyReference.cache
+/AAI.RepositoryContract/obj/Debug/net6.0/AAI.RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.ServiceContract/obj/Debug/net6.0/AAI.ServiceContract.csproj.AssemblyReference.cache
+/AAI.ServiceContract/obj/Debug/net6.0/AAI.ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.Service/obj/Debug/net6.0/AAI.Service.csproj.AssemblyReference.cache
+/AAI.Service/obj/Debug/net6.0/AAI.Service.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.Web.API/obj/Debug/net6.0/AAI.Web.API.csproj.AssemblyReference.cache
+/AAI.Web.API/obj/Debug/net6.0/AAI.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+/AAI.Common/obj/Debug/net6.0/AAI.Common.GeneratedMSBuildEditorConfig.editorconfig
