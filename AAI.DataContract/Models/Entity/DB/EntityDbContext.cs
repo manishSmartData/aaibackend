@@ -20,7 +20,8 @@ namespace AAI.DataContract.Models.Entity.DB
         {
             base.OnModelCreating(builder);
         }
-
+        public virtual DbSet<Public_Act> Public_Acts { get; set; }
+        public virtual DbSet<Section> Sections { get; set; }
         //public virtual DbSet<AAI_ActSection> AAI_ActSection { get; set; }
         //public virtual DbSet<AAI_Allocations> AAI_Allocations { get; set; }
         //public virtual DbSet<AAI_Authorizations> AAI_Authorizations { get; set; }
